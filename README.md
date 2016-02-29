@@ -1,2 +1,2 @@
 # hello-world
-not sure what this does
+This is a test project.
